@@ -184,8 +184,7 @@ public class MainActivity extends AppCompatActivity {
 <img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/58657207-b596-4212-b58f-06f364003dfb" />
 
 
-## Result
-Thus, a simple Android application to get contact details using a content provider was developed and executed successfully using Android Studio.
+
 
 
 ## RESULT
